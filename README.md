@@ -13,7 +13,7 @@ Hello there! I'm Wendy, and I have a passion for Data Science and Web developmen
 
 I'm always open to collaborating on projects, learning about new opportunities, or just chatting about all things tech!
 
-🌐 [Portfolio](#https://wendyliujiang.github.io/#)
+- 🌐 [Portfolio](https://wendyliujiang.github.io/#)
 - 📧 [Email](mailto:liujiang9608@gmail.com)
 
 
